@@ -1,0 +1,137 @@
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+body{
+    background-color: rgb(37, 201, 92);
+    font-family: Arial;
+    color: black;
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+#Conteudo{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    
+    background-color: rgb(142, 150, 76);
+}
+h1{
+    border: 1px solid black;
+    text-align: center;
+    margin: 0;
+    color: rgb(214, 214, 13);
+    background-color: chocolate;
+}
+#Itens-type{
+    border: 1px solid black;
+    height: 65px;
+    margin-top: 30px;
+    background-color: rgb(142, 150, 76);
+}
+#Item-selected{
+    display: inline-block;
+    height: 65px;
+}
+#p0{
+    color: yellow;
+    width: auto;
+    float: right;
+    padding-right: 190px;
+    padding-top: 10px;
+    color: rgb(223, 23, 57);
+    font-size: 17px;
+
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+#Star-align{
+    
+    overflow: auto;
+    padding-bottom: 10px;
+}
+#p1{
+    text-align: center;
+    margin: 0;
+    color: rgb(214, 214, 13);
+}
+#Stars-block{
+    border: 1px solid black;
+    width: 120px;
+    float: right;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+.Stars{
+    display: inline-block;
+    border: 2px solid balck;
+    
+}
+.ajust-size{
+    width: 20px;
+    height: 20px;
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+#Dialog-block{
+    padding-bottom: 5px;
+}
+#Dialog-block p{
+    margin: auto;
+    
+    padding: 10px 0;
+    color: rgb(235, 235, 10);
+    font-size: 20px;
+   
+}
+#Dialog-ajust{
+    border: 1px solid black;
+    color: white;
+
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+#Gold-style{
+    width: 400px;
+    overflow: auto;
+    margin: auto;
+}
+#Gold{
+    width: 500px;
+    height: 90px;
+    margin: auto;
+    background-color:rgb(110, 94, 70);
+    font-size: 25px;
+    
+}
+#Gold p{
+    display: inline-block;
+    border: 3px solid black;
+    
+}
+#Custo{
+    float: right;
+    border-radius: 15px 5px;
+    padding: 2px;
+}
+#Ouro{
+    border-radius: 15px 5px;
+    padding: 2px;
+}
+#Button-ajust{
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+#Button-ajust button{
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    outline-style: none;
+    
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+#counter{
+    width: 100px;
+    display: inline;
+}
+#Sing_counter{
+    float: right;
+    margin-top: 0;
+}
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+

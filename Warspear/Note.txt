@@ -1,0 +1,24 @@
+Fazer o ampli do warsper
+
+- Estrelas 
+- Dificuldade na amplia��o conforme o nivel almenta
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+OQUE FALTA:
+
+ - INTERAGIR COM O OURO E O USO DE MICOINS E SELOS
+ - CONCERTAR O BUG ONDE MOSTRA O NOME DO EQUIPAMENTO
+
+OQUE FALTA 07/01/21:
+
+  - BUG NO CONTADOR DE CIQUES
+  - BUG NA AMPLIFICAÇÃO ITENS SEM SING E COIN(LUCK)
+
+OQUE FALTA 08/01/21
+
+  -BUG NO RANDOMIZADDOR: Ele não gera um numero não binario(0 e 1) há algo errado no Dupli(variavel q duplica o expoente da mulltiplicação)
