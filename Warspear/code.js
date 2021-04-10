@@ -48,7 +48,7 @@ let Ampli_Level = 0
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
 //VALORES DO PLAYER
 
-let Gold = 500
+let Gold = 25000
 let Quantidade_Micoin = 0
 let Valor = 200//15*10
 
