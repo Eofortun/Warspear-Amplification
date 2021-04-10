@@ -35,9 +35,9 @@ let Custo = document.getElementById("Custo") //Custo do ampli
 
 //AmpliButton.addEventListener("click", Valor_calculo)
 
-AmpliButton.addEventListener("mouseenter", Luck)
-AmpliButton.addEventListener("mouseenter", Coin)
-AmpliButton.addEventListener("mouseenter", Sing)
+AmpliButton.addEventListener("click", Luck)
+AmpliButton.addEventListener("click", Coin)
+AmpliButton.addEventListener("click", Sing)
 
 let Contador_cliks = 0
 let Sing_num = 0
